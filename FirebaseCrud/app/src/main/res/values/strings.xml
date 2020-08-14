@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Firebase Crud</string>
+    <string name="add_stuff_text">Add Stuff</string>
+    <string name="stuff_name_label">Name</string>
+    <string name="edt_edit_stuff_name">Stuff Name</string>
+    <string name="edt_edit_stuff_brand">Stuff Brand</string>
+    <string name="edt_edit_stuff_price">Stuff Price</string>
+</resources>

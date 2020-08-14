@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "658384478986",
+    "firebase_url": "https://loginfirebase-485cf.firebaseio.com",
+    "project_id": "loginfirebase-485cf",
+    "storage_bucket": "loginfirebase-485cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658384478986:android:ea929838be5ef388b5d0f3",
+        "android_client_info": {
+          "package_name": "com.hanif.loginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658384478986-slje14tk7cmsuahopuh3pba418jdd4ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6bEPTZOw_DOP4VGis4N1NSJtxqMvKnXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658384478986-slje14tk7cmsuahopuh3pba418jdd4ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
